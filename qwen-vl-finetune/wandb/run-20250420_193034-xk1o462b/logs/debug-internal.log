@@ -1,0 +1,7 @@
+{"time":"2025-04-20T19:30:34.487265072+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/groups/g900403/home/share/qjw/nips/Qwen2.5-VL/qwen-vl-finetune/wandb/run-20250420_193034-xk1o462b/logs/debug-core.log"}
+{"time":"2025-04-20T19:30:34.942666438+08:00","level":"INFO","msg":"created new stream","id":"xk1o462b"}
+{"time":"2025-04-20T19:30:34.942742577+08:00","level":"INFO","msg":"stream: started","id":"xk1o462b"}
+{"time":"2025-04-20T19:30:34.942770358+08:00","level":"INFO","msg":"handler: started","stream_id":"xk1o462b"}
+{"time":"2025-04-20T19:30:34.942784891+08:00","level":"INFO","msg":"sender: started","stream_id":"xk1o462b"}
+{"time":"2025-04-20T19:30:34.942816662+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"xk1o462b"}
+{"time":"2025-04-20T19:30:35.311796897+08:00","level":"INFO","msg":"Starting system monitor"}

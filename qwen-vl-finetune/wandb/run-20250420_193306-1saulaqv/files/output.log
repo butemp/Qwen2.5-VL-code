@@ -1,0 +1,16 @@
+  0%|                                                                                                                            | 0/6 [00:00<?, ?it/s]/home/u2024141006/.conda/envs/vllm/lib/python3.9/site-packages/torch/nn/modules/conv.py:605: UserWarning: Plan failed with a cudnnException: CUDNN_BACKEND_EXECUTION_PLAN_DESCRIPTOR: cudnnFinalize Descriptor Failed cudnn_status: CUDNN_STATUS_NOT_SUPPORTED (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:919.)
+  return F.conv3d(
+/home/u2024141006/.conda/envs/vllm/lib/python3.9/site-packages/torch/utils/checkpoint.py:91: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
+/home/u2024141006/.conda/envs/vllm/lib/python3.9/site-packages/torch/utils/checkpoint.py:91: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
+/home/u2024141006/.conda/envs/vllm/lib/python3.9/site-packages/torch/nn/modules/conv.py:605: UserWarning: Plan failed with a cudnnException: CUDNN_BACKEND_EXECUTION_PLAN_DESCRIPTOR: cudnnFinalize Descriptor Failed cudnn_status: CUDNN_STATUS_NOT_SUPPORTED (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:919.)
+  return F.conv3d(
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 6/6 [01:34<00:00, 15.71s/it]
+{'loss': 1.6378, 'grad_norm': 17.635690689506596, 'learning_rate': 0.0, 'epoch': 0.33}
+{'loss': 1.6594, 'grad_norm': 18.905189750468452, 'learning_rate': 2e-07, 'epoch': 0.67}
+{'loss': 1.7784, 'grad_norm': 18.74622710620498, 'learning_rate': 1.8090169943749475e-07, 'epoch': 1.0}
+{'loss': 1.7101, 'grad_norm': 18.12769787330492, 'learning_rate': 1.3090169943749475e-07, 'epoch': 1.33}
+{'loss': 1.7606, 'grad_norm': 18.64674488015473, 'learning_rate': 6.909830056250527e-08, 'epoch': 1.67}
+{'loss': 1.644, 'grad_norm': 17.794197944420045, 'learning_rate': 1.9098300562505266e-08, 'epoch': 2.0}
+{'train_runtime': 96.765, 'train_samples_per_second': 0.992, 'train_steps_per_second': 0.062, 'train_loss': 1.6983996232350667, 'epoch': 2.0}

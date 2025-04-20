@@ -1,0 +1,29 @@
+[
+    {
+        "video": "v_7bUu05RIksU.mp4",
+        "conversations": [
+        {
+            "from": "human",
+            "value": "Can you give me an overview of the video content?"
+        },
+        {
+            "from": "huamn",
+            "value": "<clip>",
+            "time":[0,5]
+        },
+        {
+            "from": "gpt",
+            "value": "The video showcases a group of men washing cars in a parking lot using various tools and techniques, such as pressure washing hoses, hand towels, and brushes. There are also text displays of special offers and business details throughout the video. The men work on different cars, including a white car and a black SUV."
+        },
+        {
+            "from": "huamn",
+            "value": "<clip>",
+            "time":[6,10]
+        },
+        {
+            "from": "gpt",
+            "value": "The video showcases a group of men washing cars in a parking lot using various tools and techniques."
+        }
+        ]
+    }
+]

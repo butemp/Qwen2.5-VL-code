@@ -1,0 +1,77 @@
+[
+    {
+      "image": ["demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png"],
+      "conversations": [
+        {
+          "from": "human",
+          "value": "Is the value of Favorable 38 in 2015?"
+        },
+        {
+          "from": "human",
+          "value": "<image><action><image><action><image><action>"
+        },
+        {
+          "from": "gpt",
+          "value": "Yes"
+        },
+        {
+            "from": "human",
+            "value": "<image><action><image><action><image><action><image><action>"
+        },
+        {
+            "from": "gpt",
+            "value": "Yes"
+        }
+      ]
+    },
+    {
+        "image": ["demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png"],
+        "conversations": [
+          {
+            "from": "human",
+            "value": "Is the value of Favorable 38 in 2015?"
+          },
+          {
+            "from": "human",
+            "value": "<image><action><image><action><image><action>"
+          },
+          {
+            "from": "gpt",
+            "value": "Yes"
+          },
+          {
+              "from": "human",
+              "value": "<image><action><image><action><image><action><image><action>"
+          },
+          {
+              "from": "gpt",
+              "value": "Yes"
+          }
+        ]
+      },
+      {
+        "image": ["demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png","demo/images/10095.png"],
+        "conversations": [
+          {
+            "from": "human",
+            "value": "Is the value of Favorable 38 in 2015?"
+          },
+          {
+            "from": "human",
+            "value": "<image><action><image><action><image><action>"
+          },
+          {
+            "from": "gpt",
+            "value": "Yes"
+          },
+          {
+              "from": "human",
+              "value": "<image><action><image><action><image><action><image><action>"
+          },
+          {
+              "from": "gpt",
+              "value": "Yes"
+          }
+        ]
+      }
+]

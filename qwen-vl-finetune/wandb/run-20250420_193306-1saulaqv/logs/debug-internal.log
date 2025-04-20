@@ -1,0 +1,15 @@
+{"time":"2025-04-20T19:33:06.489047149+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/groups/g900403/home/share/qjw/nips/Qwen2.5-VL/qwen-vl-finetune/wandb/run-20250420_193306-1saulaqv/logs/debug-core.log"}
+{"time":"2025-04-20T19:33:06.966766505+08:00","level":"INFO","msg":"created new stream","id":"1saulaqv"}
+{"time":"2025-04-20T19:33:06.966854007+08:00","level":"INFO","msg":"stream: started","id":"1saulaqv"}
+{"time":"2025-04-20T19:33:06.966877462+08:00","level":"INFO","msg":"handler: started","stream_id":"1saulaqv"}
+{"time":"2025-04-20T19:33:06.966887236+08:00","level":"INFO","msg":"sender: started","stream_id":"1saulaqv"}
+{"time":"2025-04-20T19:33:06.966907913+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"1saulaqv"}
+{"time":"2025-04-20T19:33:07.258010716+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-20T19:34:55.729725956+08:00","level":"INFO","msg":"stream: closing","id":"1saulaqv"}
+{"time":"2025-04-20T19:34:55.729781362+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-20T19:34:55.729925527+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-20T19:34:56.663877724+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-20T19:34:57.013600888+08:00","level":"INFO","msg":"handler: closed","stream_id":"1saulaqv"}
+{"time":"2025-04-20T19:34:57.013658964+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1saulaqv"}
+{"time":"2025-04-20T19:34:57.013676793+08:00","level":"INFO","msg":"sender: closed","stream_id":"1saulaqv"}
+{"time":"2025-04-20T19:34:57.014803856+08:00","level":"INFO","msg":"stream: closed","id":"1saulaqv"}

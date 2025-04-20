@@ -1,0 +1,15 @@
+{"time":"2025-04-20T21:12:53.573873906+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/groups/g900403/home/share/qjw/nips/Qwen2.5-VL/qwen-vl-finetune/wandb/run-20250420_211253-0nwk529a/logs/debug-core.log"}
+{"time":"2025-04-20T21:12:54.062393134+08:00","level":"INFO","msg":"created new stream","id":"0nwk529a"}
+{"time":"2025-04-20T21:12:54.062478189+08:00","level":"INFO","msg":"stream: started","id":"0nwk529a"}
+{"time":"2025-04-20T21:12:54.062503058+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"0nwk529a"}
+{"time":"2025-04-20T21:12:54.062519253+08:00","level":"INFO","msg":"sender: started","stream_id":"0nwk529a"}
+{"time":"2025-04-20T21:12:54.06255812+08:00","level":"INFO","msg":"handler: started","stream_id":"0nwk529a"}
+{"time":"2025-04-20T21:12:54.411974407+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-20T21:13:09.947327383+08:00","level":"INFO","msg":"stream: closing","id":"0nwk529a"}
+{"time":"2025-04-20T21:13:09.947403934+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-20T21:13:09.9475857+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-20T21:13:10.901912631+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-20T21:13:11.259292939+08:00","level":"INFO","msg":"handler: closed","stream_id":"0nwk529a"}
+{"time":"2025-04-20T21:13:11.259345411+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"0nwk529a"}
+{"time":"2025-04-20T21:13:11.259390718+08:00","level":"INFO","msg":"sender: closed","stream_id":"0nwk529a"}
+{"time":"2025-04-20T21:13:11.262151624+08:00","level":"INFO","msg":"stream: closed","id":"0nwk529a"}

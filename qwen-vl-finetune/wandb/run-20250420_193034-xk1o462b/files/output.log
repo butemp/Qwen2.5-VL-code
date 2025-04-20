@@ -1,0 +1,11 @@
+  0%|                                                                                                                            | 0/1 [00:00<?, ?it/s]/home/u2024141006/.conda/envs/vllm/lib/python3.9/site-packages/torch/nn/modules/conv.py:605: UserWarning: Plan failed with a cudnnException: CUDNN_BACKEND_EXECUTION_PLAN_DESCRIPTOR: cudnnFinalize Descriptor Failed cudnn_status: CUDNN_STATUS_NOT_SUPPORTED (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:919.)
+  return F.conv3d(
+/home/u2024141006/.conda/envs/vllm/lib/python3.9/site-packages/torch/utils/checkpoint.py:91: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
+/home/u2024141006/.conda/envs/vllm/lib/python3.9/site-packages/torch/utils/checkpoint.py:91: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
+/home/u2024141006/.conda/envs/vllm/lib/python3.9/site-packages/torch/nn/modules/conv.py:605: UserWarning: Plan failed with a cudnnException: CUDNN_BACKEND_EXECUTION_PLAN_DESCRIPTOR: cudnnFinalize Descriptor Failed cudnn_status: CUDNN_STATUS_NOT_SUPPORTED (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:919.)
+  return F.conv3d(
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [01:13<00:00, 73.29s/it]
+{'loss': 1.7168, 'grad_norm': 17.87186996986678, 'learning_rate': 0.0, 'epoch': 0.67}
+{'train_runtime': 75.5348, 'train_samples_per_second': 0.159, 'train_steps_per_second': 0.013, 'train_loss': 1.7167794704437256, 'epoch': 0.67}
